@@ -1,0 +1,191 @@
+[
+  {
+    "dia": 1,
+    "fase": "Facilitar",
+    "cafe": "R011",
+    "almoco": "R051",
+    "lanche": "R146",
+    "jantar": "R186",
+    "missao": "Escolha dois cafés da manhã que você realmente repetiria."
+  },
+  {
+    "dia": 2,
+    "fase": "Facilitar",
+    "cafe": "R031",
+    "almoco": "R121",
+    "lanche": "R148",
+    "jantar": "R054",
+    "missao": "Separe uma base pronta para amanhã: arroz, feijão, ovos ou frango."
+  },
+  {
+    "dia": 3,
+    "fase": "Facilitar",
+    "cafe": "R030",
+    "almoco": "R071",
+    "lanche": "R147",
+    "jantar": "R189",
+    "missao": "Monte uma refeição usando algo que já ficou pronto, sem procurar receita nova."
+  },
+  {
+    "dia": 4,
+    "fase": "Facilitar",
+    "cafe": "R041",
+    "almoco": "R101",
+    "lanche": "R159",
+    "jantar": "R086",
+    "missao": "Teste uma substituição em vez de abandonar a receita porque faltou um ingrediente."
+  },
+  {
+    "dia": 5,
+    "fase": "Facilitar",
+    "cafe": "R002",
+    "almoco": "R122",
+    "lanche": "R164",
+    "jantar": "R194",
+    "missao": "Salve uma receita SOS para um dia em que a rotina sair do controle."
+  },
+  {
+    "dia": 6,
+    "fase": "Facilitar",
+    "cafe": "R013",
+    "almoco": "R104",
+    "lanche": "R150",
+    "jantar": "R083",
+    "missao": "Prepare uma quantidade maior de uma base e reserve parte para outro dia."
+  },
+  {
+    "dia": 7,
+    "fase": "Facilitar",
+    "cafe": "R032",
+    "almoco": "R116",
+    "lanche": "R161",
+    "jantar": "R206",
+    "missao": "Marque seus 5 favoritos da primeira semana."
+  },
+  {
+    "dia": 8,
+    "fase": "Adaptar",
+    "cafe": "R016",
+    "almoco": "R123",
+    "lanche": "R152",
+    "jantar": "R187",
+    "missao": "Troque um ingrediente por uma alternativa mais barata da matriz de substituições."
+  },
+  {
+    "dia": 9,
+    "fase": "Adaptar",
+    "cafe": "R049",
+    "almoco": "R091",
+    "lanche": "R176",
+    "jantar": "R141",
+    "missao": "Transforme uma sobra de ontem em uma refeição diferente hoje."
+  },
+  {
+    "dia": 10,
+    "fase": "Adaptar",
+    "cafe": "R021",
+    "almoco": "R127",
+    "lanche": "R166",
+    "jantar": "R285",
+    "missao": "Monte uma marmita usando base + proteína ou leguminosa + legume."
+  },
+  {
+    "dia": 11,
+    "fase": "Adaptar",
+    "cafe": "R033",
+    "almoco": "R069",
+    "lanche": "R180",
+    "jantar": "R118",
+    "missao": "Sirva a mesma refeição para a família e ajuste apenas acompanhamentos ou quantidades."
+  },
+  {
+    "dia": 12,
+    "fase": "Adaptar",
+    "cafe": "R014",
+    "almoco": "R085",
+    "lanche": "R149",
+    "jantar": "R197",
+    "missao": "Escolha uma opção possível para comer fora sem transformar o dia em tudo ou nada."
+  },
+  {
+    "dia": 13,
+    "fase": "Adaptar",
+    "cafe": "R045",
+    "almoco": "R132",
+    "lanche": "R155",
+    "jantar": "R115",
+    "missao": "Congele duas porções para usar na próxima semana."
+  },
+  {
+    "dia": 14,
+    "fase": "Adaptar",
+    "cafe": "R027",
+    "almoco": "R108",
+    "lanche": "R185",
+    "jantar": "R300",
+    "missao": "Use o Plano B: escolha uma refeição SOS e siga em frente, sem recomeçar do zero amanhã."
+  },
+  {
+    "dia": 15,
+    "fase": "Sustentar",
+    "cafe": "R003",
+    "almoco": "R126",
+    "lanche": "R168",
+    "jantar": "R196",
+    "missao": "Escolha os 3 cafés da manhã que mais funcionaram para sua rotina."
+  },
+  {
+    "dia": 16,
+    "fase": "Sustentar",
+    "cafe": "R046",
+    "almoco": "R120",
+    "lanche": "R154",
+    "jantar": "R202",
+    "missao": "Escolha os 5 almoços ou jantares mais fáceis de repetir."
+  },
+  {
+    "dia": 17,
+    "fase": "Sustentar",
+    "cafe": "R034",
+    "almoco": "R140",
+    "lanche": "R173",
+    "jantar": "R105",
+    "missao": "Faça a lista da semana começando pelo que já existe na despensa."
+  },
+  {
+    "dia": 18,
+    "fase": "Sustentar",
+    "cafe": "R029",
+    "almoco": "R124",
+    "lanche": "R222",
+    "jantar": "R203",
+    "missao": "Planeje uma refeição de fim de semana que a casa toda possa comer."
+  },
+  {
+    "dia": 19,
+    "fase": "Sustentar",
+    "cafe": "R019",
+    "almoco": "R081",
+    "lanche": "R184",
+    "jantar": "R119",
+    "missao": "Monte sozinho(a) o cardápio de amanhã usando seus favoritos."
+  },
+  {
+    "dia": 20,
+    "fase": "Sustentar",
+    "cafe": "R037",
+    "almoco": "R131",
+    "lanche": "R177",
+    "jantar": "R291",
+    "missao": "Escreva seu Plano B pessoal para os dias em que não der tempo de cozinhar."
+  },
+  {
+    "dia": 21,
+    "fase": "Sustentar",
+    "cafe": "R039",
+    "almoco": "R111",
+    "lanche": "R146",
+    "jantar": "R143",
+    "missao": "Monte sua Semana Base com 3 cafés, 6 pratos, 3 lanches e 3 opções SOS."
+  }
+]

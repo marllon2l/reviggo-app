@@ -1,0 +1,733 @@
+# Índice por área de interesse
+
+> Filtros editoriais de navegação; não indicam tratamento de sintomas ou doenças.
+
+## Dores e incômodos físicos — 46 receitas
+
+- R015 — Cuscuz com sardinha e tomate
+- R020 — Tapioca com atum e cheiro-verde
+- R043 — Pão integral com sardinha e tomate
+- R046 — Sanduíche de atum com cenoura e cheiro-verde
+- R067 — Frango com cúrcuma, cenoura e arroz
+- R068 — Frango com gengibre e legumes
+- R071 — Sardinha com tomate, cebola e arroz
+- R072 — Sardinha assada com batata e tomate
+- R073 — Sardinha com feijão-fradinho e cheiro-verde
+- R074 — Sardinha com cuscuz e salada de tomate
+- R075 — Sardinha com abóbora e couve
+- R076 — Atum com arroz, feijão e cenoura
+- R077 — Atum com grão-de-bico e tomate
+- R078 — Atum com macarrão, tomate e ervilha
+- R079 — Atum com batata e vagem
+- R080 — Atum com feijão-branco e cenoura
+- R081 — Peixe assado com tomate e cebola
+- R082 — Peixe com abóbora e couve
+- R083 — Peixe ensopado com batata e tomate
+- R084 — Peixe com arroz de cenoura
+- R085 — Peixe ao limão com legumes de frigideira
+- R123 — Prato de arroz, feijão, sardinha e tomate
+- R128 — Bowl de arroz, atum e feijão-fradinho
+- R130 — Bowl de arroz, sardinha, cenoura e tomate
+- R135 — Marmita de arroz, feijão-fradinho, sardinha e couve
+- R137 — Macarrão com atum, tomate e ervilha
+- R140 — Macarrão com sardinha e tomate
+- R143 — Arroz de panela única com sardinha e tomate
+- R157 — Pão com sardinha e cenoura ralada
+- R163 — Mini sanduíche de atum e cenoura
+- R177 — Pasta de sardinha com iogurte e cheiro-verde
+- R178 — Pasta de atum com cenoura e iogurte
+- R185 — Patê de sardinha com cenoura e limão
+- R194 — Creme de abóbora com gengibre
+- R246 — Suco de abacaxi com gengibre
+- R251 — Bebida de beterraba, laranja e gengibre
+- R252 — Bebida de cenoura, laranja e gengibre
+- R255 — Bebida de manga, limão e gengibre
+- R264 — Chá de gengibre e limão
+- R270 — Chá de gengibre com hortelã
+- R279 — Infusão de hortelã com gengibre
+- R283 — SOS: sanduíche de sardinha e tomate
+- R287 — SOS: bowl de arroz, atum e tomate
+- R293 — SOS: sardinha, cuscuz e tomate
+- R296 — SOS: macarrão rápido com atum e tomate
+- R298 — SOS: cuscuz com sardinha e cheiro-verde
+
+## Energia e disposição — 152 receitas
+
+- R001 — Aveia cremosa com banana e canela
+- R002 — Aveia cremosa com mamão e chia
+- R003 — Aveia cremosa com maçã e canela
+- R004 — Aveia cremosa com pera e linhaça
+- R005 — Aveia cremosa com manga e chia
+- R006 — Aveia cremosa com banana e cacau em pó
+- R007 — Aveia cremosa com maçã e amendoim torrado
+- R008 — Aveia cremosa com mamão e linhaça
+- R009 — Aveia cremosa com banana e coco ralado sem açúcar
+- R010 — Aveia cremosa com pera e canela
+- R011 — Cuscuz com ovo mexido e tomate
+- R012 — Cuscuz com frango desfiado e cheiro-verde
+- R013 — Cuscuz com queijo branco e orégano
+- R014 — Cuscuz com banana e canela
+- R015 — Cuscuz com sardinha e tomate
+- R016 — Tapioca com ovo e tomate
+- R017 — Tapioca com frango e cenoura ralada
+- R018 — Tapioca com queijo branco e tomate
+- R019 — Tapioca com banana e pasta de amendoim
+- R020 — Tapioca com atum e cheiro-verde
+- R021 — Omelete de tomate e cebola
+- R022 — Omelete de couve e queijo branco
+- R023 — Omelete de cenoura e cheiro-verde
+- R024 — Omelete de abobrinha e orégano
+- R025 — Omelete de frango desfiado e tomate
+- R026 — Ovos mexidos com couve e tomate
+- R027 — Ovos mexidos com banana-da-terra dourada
+- R028 — Ovos mexidos com cuscuz e tomate
+- R029 — Ovo de frigideira com espinafre e cebola
+- R030 — Panquequinha de ovo, aveia e banana
+- R031 — Iogurte com mamão, aveia e chia
+- R032 — Iogurte com banana, aveia e canela
+- R033 — Iogurte com manga e linhaça
+- R034 — Iogurte com maçã, aveia e amendoim
+- R035 — Iogurte com pera e chia
+- R036 — Iogurte com banana e cacau
+- R037 — Iogurte com mamão e linhaça
+- R038 — Iogurte com maçã e canela
+- R039 — Iogurte com manga e aveia
+- R040 — Iogurte com banana e coco
+- R041 — Pão integral com ovo, tomate e orégano
+- R042 — Pão integral com frango e cenoura
+- R044 — Pão integral com queijo branco e tomate
+- R045 — Pão integral com pasta de grão-de-bico e cenoura
+- R047 — Sanduíche de ovo amassado com tomate
+- R048 — Sanduíche de frango com iogurte e cenoura
+- R049 — Torrada com banana, amendoim e canela
+- R050 — Torrada com ricota temperada e tomate
+- R051 — Frango acebolado com arroz, feijão e couve
+- R052 — Frango com abóbora e cheiro-verde
+- R053 — Frango com cenoura e ervilha
+- R054 — Frango com abobrinha e tomate
+- R055 — Frango com brócolis e arroz
+- R056 — Frango com batata-doce e couve
+- R057 — Frango ensopado com tomate e cenoura
+- R058 — Frango de panela com chuchu e cheiro-verde
+- R059 — Frango com quiabo e tomate
+- R060 — Frango com repolho e cenoura
+- R064 — Frango desfiado com purê de abóbora
+- R065 — Frango com mandioca e tomate
+- R066 — Frango ao limão com arroz e salada
+- R067 — Frango com cúrcuma, cenoura e arroz
+- R068 — Frango com gengibre e legumes
+- R069 — Frango assado com batata e cebola
+- R070 — Frango desfiado com arroz colorido
+- R086 — Carne moída com abóbora e tomate
+- R087 — Carne moída com cenoura e ervilha
+- R088 — Carne moída com repolho e tomate
+- R090 — Carne moída com batata e cenoura
+- R092 — Carne moída com arroz e legumes
+- R093 — Carne moída com abobrinha e cebola
+- R094 — Carne em tiras com cebola e tomate
+- R095 — Carne em tiras com brócolis e cenoura
+- R096 — Carne de panela com abóbora
+- R097 — Carne de panela com mandioca e tomate
+- R098 — Carne de panela com chuchu e cenoura
+- R100 — Carne moída com purê de batata-doce
+- R101 — Lentilha com arroz, cenoura e couve
+- R103 — Lentilha com batata e couve
+- R108 — Arroz com feijão, abóbora e couve
+- R109 — Arroz com lentilha e cebola dourada
+- R110 — Arroz com grão-de-bico e cenoura
+- R114 — Escondidinho de lentilha com mandioca
+- R117 — Frittata simples de batata, tomate e cebola
+- R118 — Arroz de forno com feijão e legumes
+- R120 — Cuscuz com feijão-fradinho e legumes
+- R121 — Prato feito leve de arroz, feijão, ovo e couve
+- R122 — Prato de arroz, feijão, frango e abóbora
+- R124 — Prato de arroz, feijão, carne moída e cenoura
+- R125 — Prato de arroz, feijão, ovo e abobrinha
+- R126 — Bowl de arroz, lentilha, frango e tomate
+- R127 — Bowl de arroz, grão-de-bico e legumes
+- R129 — Bowl de arroz, ovo, abóbora e couve
+- R131 — Marmita de arroz, feijão, frango e repolho
+- R132 — Marmita de arroz, lentilha, carne moída e cenoura
+- R133 — Marmita de arroz, feijão, ovo e beterraba
+- R134 — Marmita de arroz, grão-de-bico, frango e abobrinha
+- R136 — Macarrão com frango, tomate e cenoura
+- R138 — Macarrão com lentilha e molho de tomate
+- R139 — Macarrão com carne moída e abobrinha
+- R141 — Arroz de panela única com frango e legumes
+- R142 — Arroz de panela única com lentilha e abóbora
+- R144 — Arroz de panela única com carne moída e cenoura
+- R145 — Arroz de panela única com grão-de-bico e legumes
+- R146 — Banana com aveia, canela e amendoim
+- R148 — Maçã com pasta de amendoim e canela
+- R151 — Banana com iogurte e cacau
+- R154 — Pera com amendoim e canela
+- R155 — Banana congelada amassada com cacau
+- R158 — Pão com frango e tomate
+- R159 — Tapioca pequena com queijo branco
+- R160 — Cuscuz pequeno com ovo mexido
+- R162 — Torrada com ricota e tomate
+- R165 — Milho cozido com queijo branco e cheiro-verde
+- R168 — Panquequinha de banana, ovo e canela
+- R180 — Ricota temperada com tomate e ervas
+- R192 — Caldo de mandioca com frango
+- R193 — Caldo de mandioca com carne desfiada
+- R198 — Sopa de arroz, frango e legumes
+- R203 — Creme de batata-doce com frango
+- R206 — Canja prática com arroz, frango e cenoura
+- R208 — Sopa de macarrão com carne e legumes
+- R213 — Pera cozida com canela
+- R215 — Creme de mamão com iogurte
+- R216 — Creme de manga com iogurte
+- R217 — Iogurte gelado com banana e canela
+- R218 — Iogurte gelado com manga
+- R220 — Banana de frigideira com canela e amendoim
+- R223 — Pera com cacau e amendoim
+- R225 — Mousse de manga com iogurte
+- R233 — Vitamina de manga com iogurte
+- R234 — Vitamina de banana com cacau
+- R238 — Vitamina de banana e pasta de amendoim
+- R241 — Suco de laranja com cenoura
+- R245 — Suco de abacaxi com hortelã
+- R247 — Suco de melancia com limão
+- R248 — Suco de melancia com hortelã
+- R249 — Suco de acerola com laranja
+- R253 — Bebida de limão, maçã e hortelã
+- R281 — SOS: arroz, feijão e ovo em 8 minutos
+- R282 — SOS: cuscuz com ovo e tomate
+- R284 — SOS: sanduíche de frango e cenoura
+- R285 — SOS: tapioca de ovo e queijo branco
+- R286 — SOS: omelete de sobras de legumes
+- R289 — SOS: iogurte, banana, aveia e amendoim
+- R290 — SOS: mamão, iogurte e chia
+- R291 — SOS: sopa do freezer com ovo cozido
+- R292 — SOS: frango pronto com legumes congelados
+- R294 — SOS: ovo mexido, pão e fruta
+- R295 — SOS: arroz, lentilha e legumes prontos
+- R297 — SOS: tapioca com frango desfiado
+- R300 — SOS: prato de sobras organizado
+
+## Sono e rotina noturna — 109 receitas
+
+- R001 — Aveia cremosa com banana e canela
+- R002 — Aveia cremosa com mamão e chia
+- R003 — Aveia cremosa com maçã e canela
+- R004 — Aveia cremosa com pera e linhaça
+- R005 — Aveia cremosa com manga e chia
+- R006 — Aveia cremosa com banana e cacau em pó
+- R007 — Aveia cremosa com maçã e amendoim torrado
+- R008 — Aveia cremosa com mamão e linhaça
+- R009 — Aveia cremosa com banana e coco ralado sem açúcar
+- R010 — Aveia cremosa com pera e canela
+- R014 — Cuscuz com banana e canela
+- R019 — Tapioca com banana e pasta de amendoim
+- R027 — Ovos mexidos com banana-da-terra dourada
+- R036 — Iogurte com banana e cacau
+- R038 — Iogurte com maçã e canela
+- R040 — Iogurte com banana e coco
+- R048 — Sanduíche de frango com iogurte e cenoura
+- R049 — Torrada com banana, amendoim e canela
+- R146 — Banana com aveia, canela e amendoim
+- R147 — Mamão com iogurte e chia
+- R149 — Pera com iogurte e linhaça
+- R150 — Manga com iogurte e aveia
+- R151 — Banana com iogurte e cacau
+- R152 — Mamão com aveia e linhaça
+- R153 — Maçã picada com aveia e iogurte
+- R155 — Banana congelada amassada com cacau
+- R168 — Panquequinha de banana, ovo e canela
+- R173 — Bolinho salgado de frango e aveia
+- R179 — Pasta de frango com cenoura e iogurte
+- R183 — Pasta de ovo com iogurte e cheiro-verde
+- R186 — Sopa de abóbora com frango
+- R187 — Sopa de abóbora com lentilha
+- R188 — Sopa de legumes com frango
+- R189 — Sopa de legumes com feijão
+- R190 — Caldo de feijão com couve
+- R191 — Caldo de lentilha com cenoura
+- R192 — Caldo de mandioca com frango
+- R193 — Caldo de mandioca com carne desfiada
+- R194 — Creme de abóbora com gengibre
+- R195 — Creme de cenoura com frango
+- R196 — Creme de ervilha com cheiro-verde
+- R197 — Sopa de batata com couve e ovo
+- R198 — Sopa de arroz, frango e legumes
+- R199 — Sopa de lentilha com tomate e couve
+- R200 — Sopa de grão-de-bico com abóbora
+- R201 — Sopa de feijão-branco com cenoura
+- R202 — Caldo de abóbora com carne moída
+- R203 — Creme de batata-doce com frango
+- R204 — Sopa de repolho, feijão e tomate
+- R205 — Sopa de chuchu, cenoura e frango
+- R206 — Canja prática com arroz, frango e cenoura
+- R207 — Canja com abóbora, frango e cheiro-verde
+- R208 — Sopa de macarrão com carne e legumes
+- R209 — Sopa de legumes com ovo cozido
+- R210 — Caldo de feijão-fradinho com tomate e couve
+- R211 — Banana assada com canela e aveia
+- R212 — Maçã assada com canela e aveia
+- R214 — Creme gelado de banana e cacau
+- R215 — Creme de mamão com iogurte
+- R216 — Creme de manga com iogurte
+- R217 — Iogurte gelado com banana e canela
+- R218 — Iogurte gelado com manga
+- R219 — Doce rápido de banana com cacau
+- R220 — Banana de frigideira com canela e amendoim
+- R221 — Maçã de panela com aveia e canela
+- R222 — Mamão com coco e canela
+- R224 — Mousse simples de maracujá com iogurte
+- R225 — Mousse de manga com iogurte
+- R226 — Pudim rápido de chia com banana
+- R228 — Pudim de chia com cacau e banana
+- R229 — Bolo de caneca de banana e aveia
+- R230 — Bolo de caneca de maçã, aveia e canela
+- R231 — Vitamina de banana com aveia
+- R232 — Vitamina de mamão com aveia
+- R233 — Vitamina de manga com iogurte
+- R234 — Vitamina de banana com cacau
+- R235 — Vitamina de banana, mamão e aveia
+- R236 — Vitamina de maçã, aveia e canela
+- R237 — Vitamina de pera e aveia
+- R238 — Vitamina de banana e pasta de amendoim
+- R239 — Vitamina de mamão e linhaça
+- R240 — Vitamina de manga e chia
+- R250 — Suco de maracujá com maçã
+- R254 — Bebida de mamão, laranja e aveia
+- R256 — Vitamina de banana, aveia e canela
+- R257 — Vitamina de mamão, iogurte e chia
+- R258 — Vitamina de maçã, iogurte e aveia
+- R259 — Vitamina de manga, aveia e canela
+- R260 — Vitamina de pera, iogurte e linhaça
+- R261 — Chá de camomila
+- R262 — Chá de erva-cidreira
+- R263 — Chá de hortelã
+- R264 — Chá de gengibre e limão
+- R265 — Chá de canela com maçã
+- R266 — Chá de casca de abacaxi com canela
+- R267 — Chá de maracujá com camomila
+- R268 — Chá de erva-doce
+- R269 — Chá de hortelã com limão
+- R270 — Chá de gengibre com hortelã
+- R271 — Água aromatizada com limão e hortelã
+- R272 — Água aromatizada com laranja e canela
+- R273 — Água aromatizada com abacaxi e hortelã
+- R274 — Água aromatizada com maçã e canela
+- R275 — Água aromatizada com pepino e limão
+- R276 — Leite morno com canela
+- R277 — Bebida morna de aveia e canela
+- R278 — Infusão de casca de maçã com canela
+- R279 — Infusão de hortelã com gengibre
+- R280 — Chá suave de capim-limão
+
+## Intestino e digestão — 93 receitas
+
+- R001 — Aveia cremosa com banana e canela
+- R002 — Aveia cremosa com mamão e chia
+- R003 — Aveia cremosa com maçã e canela
+- R004 — Aveia cremosa com pera e linhaça
+- R005 — Aveia cremosa com manga e chia
+- R006 — Aveia cremosa com banana e cacau em pó
+- R007 — Aveia cremosa com maçã e amendoim torrado
+- R008 — Aveia cremosa com mamão e linhaça
+- R009 — Aveia cremosa com banana e coco ralado sem açúcar
+- R010 — Aveia cremosa com pera e canela
+- R030 — Panquequinha de ovo, aveia e banana
+- R031 — Iogurte com mamão, aveia e chia
+- R032 — Iogurte com banana, aveia e canela
+- R033 — Iogurte com manga e linhaça
+- R034 — Iogurte com maçã, aveia e amendoim
+- R035 — Iogurte com pera e chia
+- R037 — Iogurte com mamão e linhaça
+- R039 — Iogurte com manga e aveia
+- R045 — Pão integral com pasta de grão-de-bico e cenoura
+- R061 — Frango com lentilha e legumes
+- R062 — Frango com grão-de-bico e tomate
+- R063 — Frango com feijão-fradinho e couve
+- R089 — Carne moída com feijão e couve
+- R091 — Carne moída com lentilha e tomate
+- R099 — Picadinho de carne com feijão e couve
+- R102 — Lentilha com abóbora e tomate
+- R104 — Grão-de-bico com tomate, cenoura e cheiro-verde
+- R105 — Grão-de-bico com abóbora e couve
+- R106 — Feijão-fradinho com tomate, cebola e couve
+- R107 — Feijão-branco com cenoura e tomate
+- R109 — Arroz com lentilha e cebola dourada
+- R111 — Abóbora recheada com lentilha
+- R112 — Abobrinha recheada com grão-de-bico
+- R113 — Berinjela de frigideira com feijão e tomate
+- R114 — Escondidinho de lentilha com mandioca
+- R115 — Escondidinho de grão-de-bico com abóbora
+- R120 — Cuscuz com feijão-fradinho e legumes
+- R126 — Bowl de arroz, lentilha, frango e tomate
+- R142 — Arroz de panela única com lentilha e abóbora
+- R145 — Arroz de panela única com grão-de-bico e legumes
+- R146 — Banana com aveia, canela e amendoim
+- R147 — Mamão com iogurte e chia
+- R149 — Pera com iogurte e linhaça
+- R150 — Manga com iogurte e aveia
+- R152 — Mamão com aveia e linhaça
+- R153 — Maçã picada com aveia e iogurte
+- R161 — Torrada com pasta de grão-de-bico
+- R166 — Bolinho de banana e aveia de frigideira
+- R167 — Bolinho de maçã e aveia de frigideira
+- R169 — Panquequinha de aveia com cenoura e queijo
+- R170 — Muffin simples de banana e aveia
+- R171 — Muffin de maçã, aveia e canela
+- R172 — Bolinho salgado de ovo, cenoura e aveia
+- R174 — Bolinho de abóbora com aveia e queijo
+- R175 — Panquequinha de cacau, banana e aveia
+- R176 — Pasta rápida de grão-de-bico e limão
+- R181 — Pasta de feijão-branco com limão e alho
+- R184 — Vinagrete de feijão-fradinho para lanche
+- R187 — Sopa de abóbora com lentilha
+- R189 — Sopa de legumes com feijão
+- R190 — Caldo de feijão com couve
+- R191 — Caldo de lentilha com cenoura
+- R200 — Sopa de grão-de-bico com abóbora
+- R201 — Sopa de feijão-branco com cenoura
+- R211 — Banana assada com canela e aveia
+- R212 — Maçã assada com canela e aveia
+- R215 — Creme de mamão com iogurte
+- R221 — Maçã de panela com aveia e canela
+- R222 — Mamão com coco e canela
+- R226 — Pudim rápido de chia com banana
+- R227 — Pudim de chia com manga
+- R228 — Pudim de chia com cacau e banana
+- R229 — Bolo de caneca de banana e aveia
+- R230 — Bolo de caneca de maçã, aveia e canela
+- R231 — Vitamina de banana com aveia
+- R232 — Vitamina de mamão com aveia
+- R235 — Vitamina de banana, mamão e aveia
+- R236 — Vitamina de maçã, aveia e canela
+- R237 — Vitamina de pera e aveia
+- R239 — Vitamina de mamão e linhaça
+- R240 — Vitamina de manga e chia
+- R254 — Bebida de mamão, laranja e aveia
+- R256 — Vitamina de banana, aveia e canela
+- R257 — Vitamina de mamão, iogurte e chia
+- R258 — Vitamina de maçã, iogurte e aveia
+- R259 — Vitamina de manga, aveia e canela
+- R260 — Vitamina de pera, iogurte e linhaça
+- R277 — Bebida morna de aveia e canela
+- R288 — SOS: bowl de feijão, ovo e couve
+- R289 — SOS: iogurte, banana, aveia e amendoim
+- R290 — SOS: mamão, iogurte e chia
+- R295 — SOS: arroz, lentilha e legumes prontos
+- R299 — SOS: salada de grão-de-bico pronta
+
+## Peso e saciedade — 139 receitas
+
+- R017 — Tapioca com frango e cenoura ralada
+- R023 — Omelete de cenoura e cheiro-verde
+- R024 — Omelete de abobrinha e orégano
+- R030 — Panquequinha de ovo, aveia e banana
+- R031 — Iogurte com mamão, aveia e chia
+- R032 — Iogurte com banana, aveia e canela
+- R033 — Iogurte com manga e linhaça
+- R034 — Iogurte com maçã, aveia e amendoim
+- R035 — Iogurte com pera e chia
+- R037 — Iogurte com mamão e linhaça
+- R039 — Iogurte com manga e aveia
+- R042 — Pão integral com frango e cenoura
+- R045 — Pão integral com pasta de grão-de-bico e cenoura
+- R048 — Sanduíche de frango com iogurte e cenoura
+- R051 — Frango acebolado com arroz, feijão e couve
+- R052 — Frango com abóbora e cheiro-verde
+- R053 — Frango com cenoura e ervilha
+- R054 — Frango com abobrinha e tomate
+- R055 — Frango com brócolis e arroz
+- R056 — Frango com batata-doce e couve
+- R057 — Frango ensopado com tomate e cenoura
+- R058 — Frango de panela com chuchu e cheiro-verde
+- R059 — Frango com quiabo e tomate
+- R060 — Frango com repolho e cenoura
+- R061 — Frango com lentilha e legumes
+- R062 — Frango com grão-de-bico e tomate
+- R063 — Frango com feijão-fradinho e couve
+- R064 — Frango desfiado com purê de abóbora
+- R065 — Frango com mandioca e tomate
+- R066 — Frango ao limão com arroz e salada
+- R067 — Frango com cúrcuma, cenoura e arroz
+- R068 — Frango com gengibre e legumes
+- R069 — Frango assado com batata e cebola
+- R070 — Frango desfiado com arroz colorido
+- R086 — Carne moída com abóbora e tomate
+- R087 — Carne moída com cenoura e ervilha
+- R088 — Carne moída com repolho e tomate
+- R089 — Carne moída com feijão e couve
+- R090 — Carne moída com batata e cenoura
+- R091 — Carne moída com lentilha e tomate
+- R092 — Carne moída com arroz e legumes
+- R093 — Carne moída com abobrinha e cebola
+- R094 — Carne em tiras com cebola e tomate
+- R095 — Carne em tiras com brócolis e cenoura
+- R096 — Carne de panela com abóbora
+- R097 — Carne de panela com mandioca e tomate
+- R098 — Carne de panela com chuchu e cenoura
+- R099 — Picadinho de carne com feijão e couve
+- R100 — Carne moída com purê de batata-doce
+- R101 — Lentilha com arroz, cenoura e couve
+- R102 — Lentilha com abóbora e tomate
+- R103 — Lentilha com batata e couve
+- R104 — Grão-de-bico com tomate, cenoura e cheiro-verde
+- R105 — Grão-de-bico com abóbora e couve
+- R106 — Feijão-fradinho com tomate, cebola e couve
+- R107 — Feijão-branco com cenoura e tomate
+- R108 — Arroz com feijão, abóbora e couve
+- R110 — Arroz com grão-de-bico e cenoura
+- R111 — Abóbora recheada com lentilha
+- R112 — Abobrinha recheada com grão-de-bico
+- R113 — Berinjela de frigideira com feijão e tomate
+- R115 — Escondidinho de grão-de-bico com abóbora
+- R116 — Omelete grande de legumes para dividir
+- R117 — Frittata simples de batata, tomate e cebola
+- R118 — Arroz de forno com feijão e legumes
+- R119 — Panela de legumes com ovos cozidos
+- R121 — Prato feito leve de arroz, feijão, ovo e couve
+- R122 — Prato de arroz, feijão, frango e abóbora
+- R124 — Prato de arroz, feijão, carne moída e cenoura
+- R125 — Prato de arroz, feijão, ovo e abobrinha
+- R127 — Bowl de arroz, grão-de-bico e legumes
+- R129 — Bowl de arroz, ovo, abóbora e couve
+- R131 — Marmita de arroz, feijão, frango e repolho
+- R132 — Marmita de arroz, lentilha, carne moída e cenoura
+- R134 — Marmita de arroz, grão-de-bico, frango e abobrinha
+- R136 — Macarrão com frango, tomate e cenoura
+- R138 — Macarrão com lentilha e molho de tomate
+- R139 — Macarrão com carne moída e abobrinha
+- R141 — Arroz de panela única com frango e legumes
+- R142 — Arroz de panela única com lentilha e abóbora
+- R144 — Arroz de panela única com carne moída e cenoura
+- R145 — Arroz de panela única com grão-de-bico e legumes
+- R147 — Mamão com iogurte e chia
+- R149 — Pera com iogurte e linhaça
+- R150 — Manga com iogurte e aveia
+- R153 — Maçã picada com aveia e iogurte
+- R161 — Torrada com pasta de grão-de-bico
+- R166 — Bolinho de banana e aveia de frigideira
+- R167 — Bolinho de maçã e aveia de frigideira
+- R169 — Panquequinha de aveia com cenoura e queijo
+- R170 — Muffin simples de banana e aveia
+- R171 — Muffin de maçã, aveia e canela
+- R172 — Bolinho salgado de ovo, cenoura e aveia
+- R173 — Bolinho salgado de frango e aveia
+- R174 — Bolinho de abóbora com aveia e queijo
+- R175 — Panquequinha de cacau, banana e aveia
+- R179 — Pasta de frango com cenoura e iogurte
+- R182 — Creme de abóbora com ricota para torradas
+- R186 — Sopa de abóbora com frango
+- R187 — Sopa de abóbora com lentilha
+- R188 — Sopa de legumes com frango
+- R189 — Sopa de legumes com feijão
+- R190 — Caldo de feijão com couve
+- R191 — Caldo de lentilha com cenoura
+- R192 — Caldo de mandioca com frango
+- R193 — Caldo de mandioca com carne desfiada
+- R195 — Creme de cenoura com frango
+- R197 — Sopa de batata com couve e ovo
+- R198 — Sopa de arroz, frango e legumes
+- R199 — Sopa de lentilha com tomate e couve
+- R200 — Sopa de grão-de-bico com abóbora
+- R201 — Sopa de feijão-branco com cenoura
+- R202 — Caldo de abóbora com carne moída
+- R203 — Creme de batata-doce com frango
+- R204 — Sopa de repolho, feijão e tomate
+- R205 — Sopa de chuchu, cenoura e frango
+- R206 — Canja prática com arroz, frango e cenoura
+- R207 — Canja com abóbora, frango e cheiro-verde
+- R208 — Sopa de macarrão com carne e legumes
+- R209 — Sopa de legumes com ovo cozido
+- R210 — Caldo de feijão-fradinho com tomate e couve
+- R229 — Bolo de caneca de banana e aveia
+- R230 — Bolo de caneca de maçã, aveia e canela
+- R231 — Vitamina de banana com aveia
+- R232 — Vitamina de mamão com aveia
+- R235 — Vitamina de banana, mamão e aveia
+- R236 — Vitamina de maçã, aveia e canela
+- R237 — Vitamina de pera e aveia
+- R239 — Vitamina de mamão e linhaça
+- R240 — Vitamina de manga e chia
+- R256 — Vitamina de banana, aveia e canela
+- R257 — Vitamina de mamão, iogurte e chia
+- R258 — Vitamina de maçã, iogurte e aveia
+- R259 — Vitamina de manga, aveia e canela
+- R260 — Vitamina de pera, iogurte e linhaça
+- R284 — SOS: sanduíche de frango e cenoura
+- R289 — SOS: iogurte, banana, aveia e amendoim
+- R290 — SOS: mamão, iogurte e chia
+- R299 — SOS: salada de grão-de-bico pronta
+
+## Circulação — 92 receitas
+
+- R015 — Cuscuz com sardinha e tomate
+- R020 — Tapioca com atum e cheiro-verde
+- R022 — Omelete de couve e queijo branco
+- R026 — Ovos mexidos com couve e tomate
+- R029 — Ovo de frigideira com espinafre e cebola
+- R043 — Pão integral com sardinha e tomate
+- R046 — Sanduíche de atum com cenoura e cheiro-verde
+- R051 — Frango acebolado com arroz, feijão e couve
+- R055 — Frango com brócolis e arroz
+- R056 — Frango com batata-doce e couve
+- R061 — Frango com lentilha e legumes
+- R062 — Frango com grão-de-bico e tomate
+- R063 — Frango com feijão-fradinho e couve
+- R071 — Sardinha com tomate, cebola e arroz
+- R072 — Sardinha assada com batata e tomate
+- R073 — Sardinha com feijão-fradinho e cheiro-verde
+- R074 — Sardinha com cuscuz e salada de tomate
+- R075 — Sardinha com abóbora e couve
+- R076 — Atum com arroz, feijão e cenoura
+- R077 — Atum com grão-de-bico e tomate
+- R078 — Atum com macarrão, tomate e ervilha
+- R079 — Atum com batata e vagem
+- R080 — Atum com feijão-branco e cenoura
+- R081 — Peixe assado com tomate e cebola
+- R082 — Peixe com abóbora e couve
+- R083 — Peixe ensopado com batata e tomate
+- R084 — Peixe com arroz de cenoura
+- R085 — Peixe ao limão com legumes de frigideira
+- R089 — Carne moída com feijão e couve
+- R091 — Carne moída com lentilha e tomate
+- R095 — Carne em tiras com brócolis e cenoura
+- R099 — Picadinho de carne com feijão e couve
+- R101 — Lentilha com arroz, cenoura e couve
+- R102 — Lentilha com abóbora e tomate
+- R103 — Lentilha com batata e couve
+- R104 — Grão-de-bico com tomate, cenoura e cheiro-verde
+- R105 — Grão-de-bico com abóbora e couve
+- R106 — Feijão-fradinho com tomate, cebola e couve
+- R107 — Feijão-branco com cenoura e tomate
+- R108 — Arroz com feijão, abóbora e couve
+- R109 — Arroz com lentilha e cebola dourada
+- R110 — Arroz com grão-de-bico e cenoura
+- R111 — Abóbora recheada com lentilha
+- R112 — Abobrinha recheada com grão-de-bico
+- R113 — Berinjela de frigideira com feijão e tomate
+- R114 — Escondidinho de lentilha com mandioca
+- R115 — Escondidinho de grão-de-bico com abóbora
+- R116 — Omelete grande de legumes para dividir
+- R118 — Arroz de forno com feijão e legumes
+- R119 — Panela de legumes com ovos cozidos
+- R120 — Cuscuz com feijão-fradinho e legumes
+- R122 — Prato de arroz, feijão, frango e abóbora
+- R123 — Prato de arroz, feijão, sardinha e tomate
+- R124 — Prato de arroz, feijão, carne moída e cenoura
+- R126 — Bowl de arroz, lentilha, frango e tomate
+- R127 — Bowl de arroz, grão-de-bico e legumes
+- R128 — Bowl de arroz, atum e feijão-fradinho
+- R130 — Bowl de arroz, sardinha, cenoura e tomate
+- R131 — Marmita de arroz, feijão, frango e repolho
+- R132 — Marmita de arroz, lentilha, carne moída e cenoura
+- R133 — Marmita de arroz, feijão, ovo e beterraba
+- R134 — Marmita de arroz, grão-de-bico, frango e abobrinha
+- R135 — Marmita de arroz, feijão-fradinho, sardinha e couve
+- R137 — Macarrão com atum, tomate e ervilha
+- R138 — Macarrão com lentilha e molho de tomate
+- R140 — Macarrão com sardinha e tomate
+- R143 — Arroz de panela única com sardinha e tomate
+- R157 — Pão com sardinha e cenoura ralada
+- R161 — Torrada com pasta de grão-de-bico
+- R163 — Mini sanduíche de atum e cenoura
+- R176 — Pasta rápida de grão-de-bico e limão
+- R177 — Pasta de sardinha com iogurte e cheiro-verde
+- R178 — Pasta de atum com cenoura e iogurte
+- R181 — Pasta de feijão-branco com limão e alho
+- R184 — Vinagrete de feijão-fradinho para lanche
+- R185 — Patê de sardinha com cenoura e limão
+- R199 — Sopa de lentilha com tomate e couve
+- R204 — Sopa de repolho, feijão e tomate
+- R210 — Caldo de feijão-fradinho com tomate e couve
+- R242 — Suco de laranja com beterraba
+- R243 — Suco de laranja com couve
+- R244 — Suco de limão com couve e maçã
+- R251 — Bebida de beterraba, laranja e gengibre
+- R281 — SOS: arroz, feijão e ovo em 8 minutos
+- R283 — SOS: sanduíche de sardinha e tomate
+- R287 — SOS: bowl de arroz, atum e tomate
+- R288 — SOS: bowl de feijão, ovo e couve
+- R293 — SOS: sardinha, cuscuz e tomate
+- R295 — SOS: arroz, lentilha e legumes prontos
+- R296 — SOS: macarrão rápido com atum e tomate
+- R298 — SOS: cuscuz com sardinha e cheiro-verde
+- R299 — SOS: salada de grão-de-bico pronta
+
+## Memória e concentração — 77 receitas
+
+- R011 — Cuscuz com ovo mexido e tomate
+- R016 — Tapioca com ovo e tomate
+- R021 — Omelete de tomate e cebola
+- R022 — Omelete de couve e queijo branco
+- R023 — Omelete de cenoura e cheiro-verde
+- R024 — Omelete de abobrinha e orégano
+- R025 — Omelete de frango desfiado e tomate
+- R026 — Ovos mexidos com couve e tomate
+- R027 — Ovos mexidos com banana-da-terra dourada
+- R028 — Ovos mexidos com cuscuz e tomate
+- R029 — Ovo de frigideira com espinafre e cebola
+- R041 — Pão integral com ovo, tomate e orégano
+- R043 — Pão integral com sardinha e tomate
+- R046 — Sanduíche de atum com cenoura e cheiro-verde
+- R047 — Sanduíche de ovo amassado com tomate
+- R071 — Sardinha com tomate, cebola e arroz
+- R072 — Sardinha assada com batata e tomate
+- R073 — Sardinha com feijão-fradinho e cheiro-verde
+- R074 — Sardinha com cuscuz e salada de tomate
+- R075 — Sardinha com abóbora e couve
+- R076 — Atum com arroz, feijão e cenoura
+- R077 — Atum com grão-de-bico e tomate
+- R078 — Atum com macarrão, tomate e ervilha
+- R079 — Atum com batata e vagem
+- R080 — Atum com feijão-branco e cenoura
+- R081 — Peixe assado com tomate e cebola
+- R082 — Peixe com abóbora e couve
+- R083 — Peixe ensopado com batata e tomate
+- R084 — Peixe com arroz de cenoura
+- R085 — Peixe ao limão com legumes de frigideira
+- R116 — Omelete grande de legumes para dividir
+- R117 — Frittata simples de batata, tomate e cebola
+- R119 — Panela de legumes com ovos cozidos
+- R121 — Prato feito leve de arroz, feijão, ovo e couve
+- R123 — Prato de arroz, feijão, sardinha e tomate
+- R125 — Prato de arroz, feijão, ovo e abobrinha
+- R128 — Bowl de arroz, atum e feijão-fradinho
+- R129 — Bowl de arroz, ovo, abóbora e couve
+- R130 — Bowl de arroz, sardinha, cenoura e tomate
+- R133 — Marmita de arroz, feijão, ovo e beterraba
+- R135 — Marmita de arroz, feijão-fradinho, sardinha e couve
+- R137 — Macarrão com atum, tomate e ervilha
+- R140 — Macarrão com sardinha e tomate
+- R143 — Arroz de panela única com sardinha e tomate
+- R156 — Pão com ovo amassado e tomate
+- R157 — Pão com sardinha e cenoura ralada
+- R160 — Cuscuz pequeno com ovo mexido
+- R163 — Mini sanduíche de atum e cenoura
+- R164 — Ovo cozido com tomate e azeite
+- R166 — Bolinho de banana e aveia de frigideira
+- R167 — Bolinho de maçã e aveia de frigideira
+- R168 — Panquequinha de banana, ovo e canela
+- R169 — Panquequinha de aveia com cenoura e queijo
+- R170 — Muffin simples de banana e aveia
+- R171 — Muffin de maçã, aveia e canela
+- R172 — Bolinho salgado de ovo, cenoura e aveia
+- R173 — Bolinho salgado de frango e aveia
+- R174 — Bolinho de abóbora com aveia e queijo
+- R175 — Panquequinha de cacau, banana e aveia
+- R177 — Pasta de sardinha com iogurte e cheiro-verde
+- R178 — Pasta de atum com cenoura e iogurte
+- R183 — Pasta de ovo com iogurte e cheiro-verde
+- R185 — Patê de sardinha com cenoura e limão
+- R197 — Sopa de batata com couve e ovo
+- R209 — Sopa de legumes com ovo cozido
+- R281 — SOS: arroz, feijão e ovo em 8 minutos
+- R282 — SOS: cuscuz com ovo e tomate
+- R283 — SOS: sanduíche de sardinha e tomate
+- R285 — SOS: tapioca de ovo e queijo branco
+- R286 — SOS: omelete de sobras de legumes
+- R287 — SOS: bowl de arroz, atum e tomate
+- R288 — SOS: bowl de feijão, ovo e couve
+- R291 — SOS: sopa do freezer com ovo cozido
+- R293 — SOS: sardinha, cuscuz e tomate
+- R294 — SOS: ovo mexido, pão e fruta
+- R296 — SOS: macarrão rápido com atum e tomate
+- R298 — SOS: cuscuz com sardinha e cheiro-verde
+
