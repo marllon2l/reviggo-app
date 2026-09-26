@@ -1,4 +1,4 @@
--- Schema inicial do MVP Reviggo — Protocolo Corpo Revigorado
+-- Reviggo MVP — Supabase schema
 create table if not exists profiles (
   id uuid primary key references auth.users(id) on delete cascade,
   first_name text,
@@ -55,3 +55,48 @@ create table if not exists user_settings (
   notifications_enabled boolean default true,
   updated_at timestamptz default now()
 );
+
+-- Create a profile automatically for each authenticated user.
+create or replace function public.handle_new_user()
+returns trigger
+language plpgsql
+security definer set search_path = public
+as $$
+begin
+  insert into public.profiles (id, first_name)
+  values (new.id, coalesce(new.raw_user_meta_data->>'first_name', ''))
+  on conflict (id) do nothing;
+  return new;
+end;
+$$;
+
+drop trigger if exists on_auth_user_created on auth.users;
+create trigger on_auth_user_created
+  after insert on auth.users
+  for each row execute procedure public.handle_new_user();
+
+-- Row level security: each person only sees/changes their own data.
+alter table profiles enable row level security;
+alter table recipe_favorites enable row level security;
+alter table recipe_completions enable row level security;
+alter table daily_progress enable row level security;
+alter table tracker_entries enable row level security;
+alter table user_settings enable row level security;
+
+drop policy if exists "profiles_owner" on profiles;
+create policy "profiles_owner" on profiles for all using (auth.uid() = id) with check (auth.uid() = id);
+
+drop policy if exists "favorites_owner" on recipe_favorites;
+create policy "favorites_owner" on recipe_favorites for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+drop policy if exists "completions_owner" on recipe_completions;
+create policy "completions_owner" on recipe_completions for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+drop policy if exists "daily_progress_owner" on daily_progress;
+create policy "daily_progress_owner" on daily_progress for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+drop policy if exists "tracker_owner" on tracker_entries;
+create policy "tracker_owner" on tracker_entries for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+drop policy if exists "settings_owner" on user_settings;
+create policy "settings_owner" on user_settings for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
