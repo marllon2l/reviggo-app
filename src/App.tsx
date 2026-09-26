@@ -527,7 +527,7 @@ function Profile({ userId }: { userId: string }) {
       <label>Tempo preferido<select value={time} onChange={(e) => setTime(Number(e.target.value))}><option value={10}>Até 10 min</option><option value={20}>Até 20 min</option><option value={30}>Até 30 min</option><option value={45}>45 min ou mais</option></select></label>
       <label>Alimentos que evita<input value={avoid} onChange={(e) => setAvoid(e.target.value)} /></label>
       <button className="primary" onClick={() => void save()}>SALVAR PREFERÊNCIAS</button>
-      {supabase && <button className="secondary danger" onClick={() => void supabase.auth.signOut()}>Sair da conta</button>}
+      {supabase && <button className="secondary danger" onClick={() => { if (supabase) void supabase.auth.signOut() }}>Sair da conta</button>}
     </div>
   )
 }
